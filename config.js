@@ -5,6 +5,6 @@
 window.APP_CONFIG = {
   COMPANY_NAME: 'Procurement',
   CURRENCY: 'RM',
-  API_URL: '',
+  API_URL: 'https://script.google.com/macros/s/AKfycbwzHyVn9qdzl-8g7NpPv3N2raiu0pQ-w600Nytsc0XwrQ4OTZtMHDKDfsJCnmBAqBPYyg/exec',
   GOOGLE_CLIENT_ID: '565076969693-m0aeshobnlvb0p542p3flt0g6cudjopi.apps.googleusercontent.com',
 };
